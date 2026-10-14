@@ -2,8 +2,8 @@
 <defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff2b0"/><stop offset="1" stop-color="#f0b429"/></linearGradient>
 <style>text{font-family:'Space Grotesk','IBM Plex Sans','Segoe UI',Arial,sans-serif}.v{font-size:38px;font-weight:800;fill:url(#gold)}.l{font-size:13px;fill:#c9c2ff;letter-spacing:1.5px}
 @keyframes u{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}.k{animation:u .7s ease-out both}</style></defs>
-<g class="k"><rect x="0" y="0" width="210" height="100" rx="12" fill="#1a1150" stroke="#6347EE"/><text x="105" y="52" class="v" text-anchor="middle">11</text><text x="105" y="78" class="l" text-anchor="middle">YEARS ON GITHUB</text></g>
-<g class="k" style="animation-delay:.1s"><rect x="230" y="0" width="210" height="100" rx="12" fill="#1a1150" stroke="#6347EE"/><text x="335" y="52" class="v" text-anchor="middle">77</text><text x="335" y="78" class="l" text-anchor="middle">REPOSITORIES</text></g>
-<g class="k" style="animation-delay:.2s"><rect x="460" y="0" width="210" height="100" rx="12" fill="#1a1150" stroke="#6347EE"/><text x="565" y="52" class="v" text-anchor="middle">7</text><text x="565" y="78" class="l" text-anchor="middle">LANGUAGES SHIPPED</text></g>
+<g class="k"><rect x="0" y="0" width="210" height="100" rx="12" fill="#1a1150" stroke="#6347EE"/><text x="105" y="52" class="v" text-anchor="middle">PhD</text><text x="105" y="78" class="l" text-anchor="middle">DEFENDED 2026</text></g>
+<g class="k" style="animation-delay:.1s"><rect x="230" y="0" width="210" height="100" rx="12" fill="#1a1150" stroke="#6347EE"/><text x="335" y="52" class="v" text-anchor="middle">3</text><text x="335" y="78" class="l" text-anchor="middle">PAPERS PUBLISHED</text></g>
+<g class="k" style="animation-delay:.2s"><rect x="460" y="0" width="210" height="100" rx="12" fill="#1a1150" stroke="#6347EE"/><text x="565" y="52" class="v" text-anchor="middle">11</text><text x="565" y="78" class="l" text-anchor="middle">YEARS CODING</text></g>
 <g class="k" style="animation-delay:.3s"><rect x="690" y="0" width="210" height="100" rx="12" fill="#1a1150" stroke="#6347EE"/><text x="795" y="52" class="v" text-anchor="middle">24/7</text><text x="795" y="78" class="l" text-anchor="middle">SELF-HOSTED PROD</text></g>
 </svg>

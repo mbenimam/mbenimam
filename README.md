@@ -5,16 +5,15 @@
 <td width="300" valign="top"><img src="assets/card.svg" width="280" alt="Player card"></td>
 <td valign="top">
 
-### About
-**PhD in Computer Science** (Sorbonne University, defended 23 April 2026), prepared at the Biological Image Analysis Unit of **Institut Pasteur**. My thesis, *StroMap*, combines deep learning and spatial statistics to decode how cells are organised in the tumor microenvironment from whole-slide images. I also build and run full products on my own, from storefront to server.
+### I turn pixels into answers, then ship the answer.
 
-- **SpatioPath**: spatial statistics framework (generalised Ripley's K via level-set embedding) that separates real cell interactions from random co-localisation. Published in *Nature Communications*.
-- **Multi-task deep learning**: one U-Net-style network that segments tissue regions and detects immune cells in a single pass, with 50% fewer parameters than two single-task models.
-- **SpatioMap**: tile-based heatmaps of local spatial statistics to reveal immune phenotypes across a whole slide.
-- **Supervision**: four master's research projects (graph metrics, heterogeneous GNNs, diffusion models, GANs for synthetic histology).
-- **Products and infra**: headless Next.js shop, ERP for a manufacturer, exact 3D packing solver ([live](https://box.shmod.me)), Proxmox / Coolify homelab.
+I'm a researcher who also builds. My PhD taught cancer-tissue images to explain themselves; my weekends teach servers to run on their own.
 
-**Open to a fixed-term contract (CDD) in Île-de-France**: computational pathology, computer vision, bioimage analysis, applied ML. [LinkedIn](https://www.linkedin.com/in/mounib-benimam/) · [Google Scholar](https://scholar.google.com/citations?user=yZa_byYAAAAJ)
+- 🔬 **Computational pathology**: deep learning and spatial statistics on whole-slide images
+- 🛠️ **Full-stack on my own**: a shop, an ERP and a solver, deployed and running
+- 🎓 **I teach what I learn**: student supervision, a course, long-form devlogs
+
+**Open to a CDD in Île-de-France.**
 
 </td>
 </tr>
@@ -22,43 +21,10 @@
 
 <img src="assets/stats.svg" alt="Stats">
 
-## Publications
-| Year | Paper | Venue |
-|---|---|---|
-| 2026 | **SpatioMap**: a tile-based spatial heatmap framework for tumor microenvironment heterogeneity in whole-slide images | IEEE ISBI (accepted) |
-| 2025 | **Statistical analysis of spatial patterns in tumor microenvironment images** ([paper](https://doi.org/10.1038/s41467-025-57943-y)) | Nature Communications 16 |
-| 2025 | **Deep multitask learning for automated tissue segmentation and cell detection** | EUSIPCO |
+### Selected work
+- **SpatioPath**, *Nature Communications* 2025: tells real cell interactions from random co-localisation ([paper](https://doi.org/10.1038/s41467-025-57943-y))
+- **Multi-task segmentation + detection**, EUSIPCO 2025: one network, half the parameters
+- **SpatioMap**, ISBI 2026: immune phenotypes as heatmaps over a whole slide
+- **[Box Optimizer](https://box.shmod.me)** and **[CV demos](https://cv.shmod.me)**: live, in your browser
 
-**Thesis**: *StroMap: Computational image analysis of the tumor stroma to understand its role in cancer*. Advisors: Jean-Christophe Olivo-Marin and Lucie Peduto, co-supervised by Vannary Meas-Yedid. Jury: Florence Cloppet (chair), Charles Kervrann and Thomas Walter (reviewers), Arrate Muñoz Barrutia (examiner).
-
-## Path
-| | |
-|---|---|
-| **2022 – 2026** | PhD, Computer Science (defended April 2026). Institut Pasteur / Sorbonne University |
-| **2021 – 2022** | Research intern, Institut Pasteur: histopathology, multi-instance learning |
-| **2023 – 2024** | Student project supervisor, Sorbonne University |
-| **2024** | Summer school, Machine Learning and Advanced Statistics (Bayesian inference, MCMC), Universidad Politécnica de Madrid |
-| **2020 – 2022** | Master's, Computer Vision (M2). Sorbonne University |
-| **2018 – 2020** | Bachelor's, Computer Science. Sorbonne University |
-| **2020 – 2021** | Freelance React Native developer |
-
-## Skills
-<img src="assets/skills.svg" alt="Skill levels">
-
-## Selected public work
-| Project | Description |
-|---|---|
-| [Birdy](https://github.com/mbenimam/birdy) | Social network: Java EE, React, MongoDB, MySQL, WebSocket chat and whiteboard |
-| [Computer-Vision-Projects](https://github.com/mbenimam/Computer-Vision-Projects) | Interactive computer-vision demos running entirely in the browser. [Live](https://cv.shmod.me) |
-| [EpicTracer](https://github.com/mbenimam/EpicTracer) | Ray tracer in C++ |
-| [primality-testing](https://github.com/mbenimam/primality-testing) | Primality-testing algorithms in Python |
-| [dna-sequence-alignment](https://github.com/mbenimam/dna-sequence-alignment) | Sequence alignment algorithms |
-| [concurrent-programming-java](https://github.com/mbenimam/concurrent-programming-java) | Concurrency exercises in Java |
-
-Most production work is private client code, so this is the public side.
-
-<div align="center">
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbenimam&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
+<sub>PhD Computer Science, Sorbonne / Institut Pasteur · [LinkedIn](https://www.linkedin.com/in/mounib-benimam/) · [Scholar](https://scholar.google.com/citations?user=yZa_byYAAAAJ)</sub>
