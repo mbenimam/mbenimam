@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Mohamed Mounib Benimam, software engineer">
+<img src="assets/banner.svg" alt="Mohamed Mounib Benimam, PhD in computer science">
 
 <table>
 <tr>
@@ -15,32 +15,6 @@
 - **Products and infra**: headless Next.js shop, ERP for a manufacturer, exact 3D packing solver ([live](https://box.shmod.me)), Proxmox / Coolify homelab.
 
 **Open to a fixed-term contract (CDD) in Île-de-France**: computational pathology, computer vision, bioimage analysis, applied ML. [LinkedIn](https://www.linkedin.com/in/mounib-benimam/) · [Google Scholar](https://scholar.google.com/citations?user=yZa_byYAAAAJ)
-
-</td>
-<td valign="top">
-
-### About
-PhD in computer science (2022–2026) at **Institut Pasteur** and **Sorbonne University**, working on deep learning for computational pathology: multi-instance learning, graph neural networks and generative models for histology. I also build and run full products on my own, from storefront to server.
-
-- **Research**: histopathology image analysis, weakly supervised and graph-based learning. Public code: [SplineDist](https://github.com/mbenimam/SplineDist), [Registration](https://github.com/mbenimam/Registration), [neubias](https://github.com/mbenimam/neubias).
-- **Supervision**: supervised four master's research projects (graph similarity metrics, heterogeneous graphs, diffusion models and GANs for synthetic histology data).
-- **E-commerce and ERP**: headless Next.js shop on WooCommerce, and ERP software for a manufacturer.
-- **Packing solver**: exact 3D bin packing in a web worker. [Live demo](https://box.shmod.me)
-- **Infra**: Proxmox cluster, TrueNAS, Coolify, Cloudflare tunnels, GPU inference VM.
-
-**Open to a fixed-term contract (CDD) in Île-de-France**: computational pathology, computer vision, bioimage analysis, applied ML. [LinkedIn](https://www.linkedin.com/in/mounib-benimam/) · [Google Scholar](https://scholar.google.com/citations?user=yZa_byYAAAAJ)
-
-</td>
-<td valign="top">
-
-### About
-PhD in computer science (computational pathology), Sorbonne University. My research is on deep learning and image analysis for histopathology; I also build full products alone, from the storefront to the server, and run them in production.
-
-- **Research**: computational pathology, cell and region segmentation, image registration. Public code: [SplineDist](https://github.com/mbenimam/SplineDist), [Registration](https://github.com/mbenimam/Registration), [neubias](https://github.com/mbenimam/neubias).
-- **E-commerce**: headless Next.js on WooCommerce for a hardware export business, covering checkout, shipping rules and invoicing.
-- **ERP**: orders, stock, production and invoicing for a manufacturing company.
-- **Packing solver**: exact branch-and-bound 3D bin packing in a web worker. [Live demo](https://box.shmod.me)
-- **Infra**: Proxmox cluster, TrueNAS, Coolify and Cloudflare tunnels, GPU inference VM.
 
 </td>
 </tr>
