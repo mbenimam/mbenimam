@@ -14,7 +14,7 @@
 - **Supervision**: four master's research projects (graph metrics, heterogeneous GNNs, diffusion models, GANs for synthetic histology).
 - **Products and infra**: headless Next.js shop, ERP for a manufacturer, exact 3D packing solver ([live](https://box.shmod.me)), Proxmox / Coolify homelab.
 
-Open to new opportunities in Paris (on-site, hybrid or remote).
+**Open to a fixed-term contract (CDD) in Île-de-France**: computational pathology, computer vision, bioimage analysis, applied ML. [LinkedIn](https://www.linkedin.com/in/mounib-benimam/) · [Google Scholar](https://scholar.google.com/citations?user=yZa_byYAAAAJ)
 
 </td>
 <td valign="top">
@@ -28,7 +28,7 @@ PhD in computer science (2022–2026) at **Institut Pasteur** and **Sorbonne Uni
 - **Packing solver**: exact 3D bin packing in a web worker. [Live demo](https://box.shmod.me)
 - **Infra**: Proxmox cluster, TrueNAS, Coolify, Cloudflare tunnels, GPU inference VM.
 
-Open to new opportunities in Paris (on-site, hybrid or remote).
+**Open to a fixed-term contract (CDD) in Île-de-France**: computational pathology, computer vision, bioimage analysis, applied ML. [LinkedIn](https://www.linkedin.com/in/mounib-benimam/) · [Google Scholar](https://scholar.google.com/citations?user=yZa_byYAAAAJ)
 
 </td>
 <td valign="top">
@@ -74,7 +74,6 @@ PhD in computer science (computational pathology), Sorbonne University. My resea
 ## Selected public work
 | Project | Description |
 |---|---|
-| [GluEngine / Glue](https://github.com/mbenimam/Glue) | 2D game engine in C++ with SFML/OpenGL: 2D lighting, quadtree collisions, custom shaders |
 | [Birdy](https://github.com/mbenimam/birdy) | Social network: Java EE, React, MongoDB, MySQL, WebSocket chat and whiteboard |
 | [Computer-Vision-Projects](https://github.com/mbenimam/Computer-Vision-Projects) | Interactive computer-vision demos running entirely in the browser. [Live](https://cv.shmod.me) |
 | [EpicTracer](https://github.com/mbenimam/EpicTracer) | Ray tracer in C++ |
