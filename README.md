@@ -1,60 +1,29 @@
-<div align="center">
-
-<img src="assets/card.svg" width="300" alt="Player card: M. Benimam, 85 overall, DEV">
-
 # Mohamed Mounib Benimam
 
-**Solo builder in Paris.** I ship shops, ERPs and vision tools, then run them on my own metal.
+Software engineer in Paris. Master's in image processing and machine learning. I build and operate full products on my own: web shops, business software, and computer-vision tools.
 
-</div>
+## What I work on
 
-## Match stats
+- **E-commerce platform**: headless Next.js storefront on WooCommerce for a hardware export business, with checkout, shipping rules and invoicing.
+- **ERP**: business software for a manufacturing company (orders, stock, production, invoicing).
+- **Parcel packing solver**: exact branch-and-bound 3D bin packing in a web worker, with a stocked-box catalogue mode. Live demo: [box.shmod.me](https://box.shmod.me)
+- **Infrastructure**: self-hosted Proxmox cluster, TrueNAS, Docker and Coolify deployments behind Cloudflare tunnels, GPU inference VM.
 
-| | |
+Most of this is private client work, so the repos below are the public side.
+
+## Selected public work
+
+| Project | Description |
 |---|---|
-| **DEV 90** | Headless Next.js + WooCommerce shop, a multi-tenant ERP, a parcel-packing solver with an exact branch-and-bound core |
-| **OPS 88** | Two-node Proxmox cluster, TrueNAS, Coolify behind Cloudflare tunnels, an RTX 3070 inference VM, a full media stack |
-| **BIZ 86** | EDoctor: computer hardware sold to Algeria, my own French SASU, shop to shipping to invoices |
-| **CVX 85** | Master's in image processing and ML: segmentation, cell counting, registration, SplineDist, 3D motion |
-| **ALG 82** | Primality testing, DNA alignment, via minimisation, mesh simplification, line sweep, NP problems |
-| **GFX 78** | Ray tracer, Scotty3D, libigl, adaptive quad-mesh simplification, three.js |
+| [Computer-Vision-Projects](https://github.com/mbenimam/Computer-Vision-Projects) | Interactive computer-vision demos that run entirely in the browser. [Live](https://cv.shmod.me) |
+| [EpicTracer](https://github.com/mbenimam/EpicTracer) | Ray tracer in C++ |
+| [primality-testing](https://github.com/mbenimam/primality-testing) | Primality-testing algorithms in Python |
+| [dna-sequence-alignment](https://github.com/mbenimam/dna-sequence-alignment) | Sequence alignment algorithms |
+| [concurrent-programming-java](https://github.com/mbenimam/concurrent-programming-java) | Concurrency exercises in Java |
 
-## Playing style
+## Stack
 
-- I finish things end to end and **verify them**, not describe them.
-- Deploys create their own schema; nobody runs manual steps after me.
-- I write long devlogs, because explaining a decision is how I learn it.
-- If it can run in the visitor's browser, it should (Gradio-Lite on Pyodide).
-
-## Starting eleven
-
-| Project | What it is | Stack |
-|---|---|---|
-| [Computer-Vision-Projects](https://github.com/mbenimam/Computer-Vision-Projects) | Interactive vision demos, client-side in the browser | Python, Gradio-Lite |
-| [EpicTracer](https://github.com/mbenimam/EpicTracer) | Ray tracer | C++ |
-| [birdy-front](https://github.com/mbenimam/birdy-front) | Social app front end | JS, CSS |
-| [shop](https://github.com/mbenimam/shop) | Storefront | TypeScript |
-| [primality-testing](https://github.com/mbenimam/primality-testing) | Primality algorithms | Python |
-| [dna-sequence-alignment](https://github.com/mbenimam/dna-sequence-alignment) | Alignment algorithms | Python |
-
-Most of my production work (shop, ERP, infra, packing simulator) is in private repos.
-
-## Toolbox
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mbenimam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbenimam&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+**Languages:** TypeScript, Python, PHP, C++, C, Java, SQL
+**Web:** Next.js, React, Node.js, WooCommerce
+**ML and vision:** PyTorch, OpenCV, scikit-image
+**Infra:** Docker, Proxmox, Coolify, Cloudflare, Linux
