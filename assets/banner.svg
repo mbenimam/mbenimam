@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#150d45"/><stop offset=".6" stop-color="#3a24b8"/><stop offset="1" stop-color="#6347EE"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff2b0"/><stop offset="1" stop-color="#f0b429"/></linearGradient>
+<style>
+text{font-family:'Space Grotesk','IBM Plex Sans','Segoe UI',Arial,sans-serif}
+.n{font-size:46px;font-weight:800;fill:#fff}.t{font-size:20px;font-weight:600;fill:url(#gold)}.s{font-size:15px;fill:#d8d2ff;letter-spacing:.5px}
+@keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+.o{animation:f 6s ease-in-out infinite}.o2{animation:f 8s ease-in-out infinite reverse}
+@keyframes b{0%,49%{opacity:1}50%,100%{opacity:0}}.c{animation:b 1.1s steps(1) infinite}
+</style></defs>
+<rect width="900" height="200" rx="14" fill="url(#g)"/>
+<g opacity=".18" fill="#fff"><circle class="o" cx="760" cy="60" r="70"/><circle class="o2" cx="840" cy="150" r="40"/><circle class="o" cx="680" cy="170" r="22"/></g>
+<g opacity=".08" stroke="#fff"><path d="M0 40H900M0 80H900M0 120H900M0 160H900"/></g>
+<text x="44" y="82" class="n">Mohamed Mounib Benimam</text>
+<text x="44" y="120" class="t">Software engineer · Full-stack, computer vision, infrastructure</text>
+<text x="44" y="156" class="s">Paris  ·  I build products and run them in production<tspan class="c" fill="#f0b429"> ▌</tspan></text>
+</svg>
