@@ -14,5 +14,5 @@ text{font-family:'Space Grotesk','IBM Plex Sans','Segoe UI',Arial,sans-serif}
 <g opacity=".08" stroke="#fff"><path d="M0 40H900M0 80H900M0 120H900M0 160H900"/></g>
 <text x="44" y="82" class="n">Mohamed Mounib Benimam</text>
 <text x="44" y="120" class="t">PhD in Computer Science · Computational pathology · Institut Pasteur</text>
-<text x="44" y="156" class="s">Paris  ·  Sorbonne University  ·  deep learning for histopathology  ·  full-stack products<tspan class="c" fill="#f0b429"> ▌</tspan></text>
+<text x="44" y="156" class="s">Paris  ·  Sorbonne University  ·  Nature Communications · EUSIPCO · ISBI<tspan class="c" fill="#f0b429"> ▌</tspan></text>
 </svg>
