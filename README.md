@@ -6,8 +6,9 @@
 <td valign="top">
 
 ### About
-Software engineer in Paris with a Master's in image processing and machine learning. I build full products alone, from the storefront to the server, and I run them in production.
+PhD in computer science (computational pathology), Sorbonne University. My research is on deep learning and image analysis for histopathology; I also build full products alone, from the storefront to the server, and run them in production.
 
+- **Research**: computational pathology, cell and region segmentation, image registration. Public code: [SplineDist](https://github.com/mbenimam/SplineDist), [Registration](https://github.com/mbenimam/Registration), [neubias](https://github.com/mbenimam/neubias).
 - **E-commerce**: headless Next.js on WooCommerce for a hardware export business, covering checkout, shipping rules and invoicing.
 - **ERP**: orders, stock, production and invoicing for a manufacturing company.
 - **Packing solver**: exact branch-and-bound 3D bin packing in a web worker. [Live demo](https://box.shmod.me)

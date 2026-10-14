@@ -13,6 +13,6 @@ text{font-family:'Space Grotesk','IBM Plex Sans','Segoe UI',Arial,sans-serif}
 <g opacity=".18" fill="#fff"><circle class="o" cx="760" cy="60" r="70"/><circle class="o2" cx="840" cy="150" r="40"/><circle class="o" cx="680" cy="170" r="22"/></g>
 <g opacity=".08" stroke="#fff"><path d="M0 40H900M0 80H900M0 120H900M0 160H900"/></g>
 <text x="44" y="82" class="n">Mohamed Mounib Benimam</text>
-<text x="44" y="120" class="t">Software engineer · Full-stack, computer vision, infrastructure</text>
-<text x="44" y="156" class="s">Paris  ·  I build products and run them in production<tspan class="c" fill="#f0b429"> ▌</tspan></text>
+<text x="44" y="120" class="t">PhD in Computer Science · Computational pathology · Software engineer</text>
+<text x="44" y="156" class="s">Paris  ·  Sorbonne University  ·  deep learning for histopathology, products in production<tspan class="c" fill="#f0b429"> ▌</tspan></text>
 </svg>
