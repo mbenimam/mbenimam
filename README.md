@@ -25,6 +25,6 @@ I'm a researcher who also builds. My PhD taught cancer-tissue images to explain 
 - **SpatioPath**, *Nature Communications* 2025: tells real cell interactions from random co-localisation ([paper](https://doi.org/10.1038/s41467-025-57943-y))
 - **Multi-task segmentation + detection**, EUSIPCO 2025: one network, half the parameters
 - **SpatioMap**, ISBI 2026: immune phenotypes as heatmaps over a whole slide
-- **[Box Optimizer](https://box.shmod.me)** and **[CV demos](https://cv.shmod.me)**: live, in your browser
+- **[Box Optimizer](https://box.shmod.me)** and image-processing demos **[1](https://demo-image-1.shmod.me)** and **[2](https://demo-image-2.shmod.me)**: live, in your browser
 
 <sub>PhD Computer Science, Sorbonne / Institut Pasteur · [LinkedIn](https://www.linkedin.com/in/mounib-benimam/) · [Scholar](https://scholar.google.com/citations?user=yZa_byYAAAAJ)</sub>
